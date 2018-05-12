@@ -1,0 +1,32 @@
+_repo: Jacques-Cartier_18490
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chevalier, H. Emile (Henri Emile)
+    aliases:
+    - Chevalier, Henri Emile
+    - Chevalier, H. Émile (Henri Émile)
+    - Chevalier, Émile
+    birthdate: 1828
+    deathdate: 1879
+    gutenberg_agent_id: '7724'
+    url: http://www.gutenberg.org/2009/agents/7724
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18490'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History'
+- !lcsh 'Cartier, Jacques, 1491-1557'
+- !lcc 'F1001'
+title: Jacques Cartier
+url: http://www.gutenberg.org/ebooks/18490
